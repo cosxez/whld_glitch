@@ -240,9 +240,6 @@ int main()
 			}
 		}
 		if (i%rand()%3==0) {last_r=0;last_g=0;last_b=0;}
-		
-		
-		
 	}
 
 	if (save==true)
